@@ -124,29 +124,29 @@
 
 
   "AppsPromote": [
-    {
-      "name": "Minecraft PE skyblock",
-      "packageName": "com.andiqwer.skyblock_maps",
-      "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+      {
+      "name": "Hacker skins for minicraft",
+      "packageName": "com.kidoo.hackerskins.online",
+      "icon": "https://play-lh.googleusercontent.com/LJF4gxZGsEUI4-tw8lL59o7SoRHKsl3Df454VHMR4dTTCqsamjlNqZF7upaQQbMtYQ=w240-h480-rw",
       "download": "+100 K"
     },
     {
-      "name": "Houses Maps",
-      "packageName": "com.andiqwer.house_maps",
-      "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
-      "download": "+500 K"
+      "name": "Rainbows skins for minicraft",
+      "packageName": "com.kidoo.rainbowskins.online",
+      "icon": "https://play-lh.googleusercontent.com/kk0tbcHqmHDLMitgdhorQOxwmluR-jy5my0BVY9Tl65aqEF3_3krxy-8zvH3pJeYnUU=w240-h480-rw",
+      "download": "+300 K"
     },
     {
-      "name": "Guns Mods",
-      "packageName": "com.AndiQwer.GunMods",
-      "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+      "name": "Néon skin for minicraft",
+      "packageName": "com.kidoo.neonskins.online",
+      "icon": "https://play-lh.googleusercontent.com/MZnzvifXLv6pL_Rf6Dy7ZKVLf_qCr4BPrmGhnNrqIVxBUAPwoOJwGpdzI2lVQEHS1pU=w240-h480-rw",
+      "download": "+50 K"
+    },
+    {
+      "name": "Girls skins forminicraft",
+      "packageName": "com.kidoo.girlskins.online",
+      "icon": "https://play-lh.googleusercontent.com/t7E6e1yT26olZvvXe6S3yqIf_vKJ-Ivfmf8juOJ2wvykSBqpMJcqOERFt13lRD5In7Y=w240-h480-rw",
       "download": "+1 Million"
-    },
-    {
-      "name": "Cars Mods",
-      "packageName": "com.andiqwer.car_mods",
-      "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
-      "download": "+50 Million"
     }
   ]
 }
